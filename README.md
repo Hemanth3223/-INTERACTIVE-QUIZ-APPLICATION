@@ -16,3 +16,6 @@ MY TASK IS BUILD A QUIZ APPLICATION USING
  JAVASCRIPT WHERE USERS CAN
  ANSWER QUESTIONS
 
+ ![Image](https://github.com/user-attachments/assets/8be8a409-8c6c-4f76-b2c6-7424efda563f)
+ 
+
